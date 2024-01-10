@@ -1,3 +1,3 @@
---code to list the existing databases
+-- Show Databases
  
  SHOW DATABASES;
